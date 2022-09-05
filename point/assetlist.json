@@ -3,7 +3,7 @@
   "chain_name": "point",
   "assets": [
     {
-      "description": "The native EVM, governance and staking token of the Point N",
+      "description": "The native EVM, governance and staking token of the Point Network",
       "denom_units": [
         {
           "denom": "apoint",
