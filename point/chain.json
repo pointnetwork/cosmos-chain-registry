@@ -4,7 +4,7 @@
   "status": "live",
   "network_type": "mainnet",
   "pretty_name": "Point",
-  "chain_id": "10687",
+  "chain_id": "point_10687-1",
   "bech32_prefix": "point",
   "node_home": "$HOME/.pointd",
   "genesis": {
@@ -47,7 +47,7 @@
     "persistent_peers": [
       {
         "id": "8673c1f04c29c464189e8bf29e51fb0b38da2f19",
-        "address": "rpc-mainnet-1.point.space:26657",
+        "address": "rpc-mainnet-1.point.space:26656",
         "provider": "Point Network"
       }
     ]
